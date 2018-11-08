@@ -43,7 +43,7 @@ Vulnerability #1: Cross-Site Scripting
 Vulnerability #2: Username Enumeration
 -Description: Similar to last week, when you test the correct username, the inspect page will show "failture". when you test the wrong username, it will show "failed".
 - [x] GIF Walkthrough: 
-     - <img src='Green User Enumeration.gif' title='XSS' width='' alt='' />
+     - <img src='Grenn User Enumeration.gif' title='XSS' width='' alt='' />
 
 
 ## Red
