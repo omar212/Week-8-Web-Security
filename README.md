@@ -37,7 +37,7 @@ Vulnerability #2: SQL injection
 Vulnerability #1: Cross-Site Scripting
 -Description: Going into the contact page, enter your name,email, and feedback. For example " '<script>alert('Omar found the XSS!')</script>'" then go to the feedback by logging in. The alert should pop up.
 - [x] GIF Walkthrough: 
-     - <img src='Green Cross Site Scripting.gif' title='XSS' width='' alt='' />
+     - <img src='Green Cross Site Scriptiting.gif' title='XSS' width='' alt='' />
 
 
 Vulnerability #2: Username Enumeration
