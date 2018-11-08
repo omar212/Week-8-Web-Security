@@ -21,7 +21,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 Vulnerability #1:  Session Hijacking/Fixation
 Description: Fisrt login to the blue section, change it the url to public/hacktools/change_session_id.php to get the session ID. Then i opened safari doing the same process and copy and paste the session id from the last browser change the session ID. In result you will automatically be logged in.
 - [x] GIF Walkthrough: 
-     - <img src='.gif' title='XSS' width='' alt='' />
+     - <img src='BlueSessionHijacking/Fixation.gif' title='XSS' width='' alt='' />
 
 
 
