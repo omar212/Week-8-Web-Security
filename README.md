@@ -51,7 +51,7 @@ Vulnerability #2: Username Enumeration
 Vulnerability #1: Cross-Site Request Forgery (CSRF)
 -Description: First Login and go into the Users page for each blue,green, and red. Enter the edit page and change the value of csrd_token the name gets changed. However that only works for the red section works and the blue and green page gives you a Error: invalid request
 - [x] GIF Walkthrough: 
-     - <img src='Red CSRSF.gif' title='XSS' width='' alt='' />
+     - <img src='Red CSRF.gif' title='XSS' width='' alt='' />
 
 
 Vulnerability #2: Insecure Direct Object Reference (IDOR)
